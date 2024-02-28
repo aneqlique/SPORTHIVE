@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url(Montserrat.ttf);
+}
+
+.customLabel {
+    -fx-font-family: "Montserrat";
+}
+
